@@ -5,7 +5,7 @@ from typing import Any, Callable, Coroutine, TypeVar
 
 import click
 
-from pywizlight.pywizlight import PilotBuilder, discovery, wizlight
+from pywizlight import PilotBuilder, discovery, wizlight
 
 T = TypeVar("T")
 

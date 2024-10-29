@@ -2,7 +2,7 @@
 
 from typing import Dict, Iterable, List, cast
 
-from pywizlight.pywizlight.bulblibrary import BulbClass
+from pywizlight.bulblibrary import BulbClass
 
 SCENES = {
     1: "Ocean",
